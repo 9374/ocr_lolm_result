@@ -1,0 +1,16 @@
+.vscode
+
+# macOS 元数据
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 游戏结算截图与切图（含玩家昵称等个人信息）
+py_api/lol_m_ocr/data/origin/
+py_api/lol_m_ocr/data/cut/
+py_api/lol_m_ocr/data/resize/
+
+# 运行产物
+py_api/lol_m_ocr/result.xlsx
